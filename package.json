@@ -1,0 +1,23 @@
+{
+  "name": "jekyll-sql",
+  "version": "0.0.1",
+  "description": "This is a personal mini project for export all Jekyll posts from my \"Food Diary Blog\" into a SQL file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyec/jekyll-sql.git"
+  },
+  "keywords": [
+    "jekyll",
+    "sql"
+  ],
+  "author": "Danny Davila (danny@ecuachina.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannyec/jekyll-sql/issues"
+  },
+  "homepage": "https://github.com/dannyec/jekyll-sql#readme"
+}
