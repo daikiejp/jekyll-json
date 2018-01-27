@@ -1,0 +1,6 @@
+# MAC Hidden Store Files
+.DS_Store
+
+# NPM
+/node_modules
+/dist
